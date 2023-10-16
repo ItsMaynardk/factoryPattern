@@ -1,3 +1,3 @@
 # factoryPattern
 ## UML Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/abf07dc0-4967-4d8f-824a-c879f0f46317)
+![factoryPattern](https://github.com/ItsMaynardk/factoryPattern/assets/142737277/c5e26fc6-b667-4be5-bb85-7c6e659b83a0)
